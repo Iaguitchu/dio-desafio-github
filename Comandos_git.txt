@@ -1,0 +1,9 @@
+Setar Usuário - git config --global user.name "Iago de Andrade"
+Setar Email - git config --global user.email iago2005andrade@gmail.com
+Verficar estado dos arquivos - git status
+Criar um usuário - git innit
+Adicionar um diretorio - git add nome_diretorio
+Adicionar todos diretorio - git add .
+Commitar arquivos/pasta - git commit -m "Mensagem"
+Subir para o Repositório remoto - git push origin master
+Verficar se a confilito nos repositório - git pull
